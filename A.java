@@ -2,6 +2,6 @@ public class A
 {
 	public static void main(String[] args)
 	{
-		System.out.println("HELLO FORM GIT");
+		System.out.println("HELLO FORM GITHUB");
 	}
 }
